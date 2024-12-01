@@ -8,6 +8,8 @@ Dataset: Tips
 Características:
 
 total_bill: Total da conta (numérico).
+
+
 tip: Valor da gorjeta (variável-alvo para regressão).
 sex: Gênero do cliente (categórico).
 smoker: Se o cliente fuma ou não (categórico).
